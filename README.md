@@ -9,6 +9,5 @@ The processor was synthesised on Design Compiler using NanGate 15nm library with
     Voltage :   0.80
     Interconnect Model : balanced_tree
     
-
-
 #See statistics.log file
+The schematics is very dense and shown in Schematic.pdf
