@@ -4,7 +4,7 @@ The processor was synthesised on Design Compiler using NanGate 15nm library with
 
     Operating Condition Name : typical
     Library : NanGate_15nm_OCL
-    Process :   1.00
+    Process :   Typical
     Temperature :  25.00
     Voltage :   0.80
     Interconnect Model : balanced_tree
